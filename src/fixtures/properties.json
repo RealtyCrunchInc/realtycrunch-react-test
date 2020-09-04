@@ -1,0 +1,124 @@
+{
+  "properties": [
+    {
+      "id": 13905,
+      "createdAt": "2020-08-20T11:12:33.668Z",
+      "description": "62 ROCKAWAY AVENUE #TH is a sale unit in Ocean Hill, Brooklyn priced at $999,999.",
+      "address": "62 Rockaway Ave #TH, Brooklyn, NY 11233",
+      "numBaths": 3.5,
+      "numBeds": 4,
+      "price": 999999.00,
+      "previewImage": "https://cdn-img-feed.streeteasy.com/nyc/image/16/398193716.jpg"
+    },
+    {
+      "id": 12695,
+      "createdAt": "2020-08-03T11:35:32.580Z",
+      "description": "36 Hillside Ter, Monroe, NY 10950 is a 2,106 sqft, 5 bed, 3 bath Single-Family Home listed for $305,000. Welcome to 36 Hillside Terrace in Monroe NY !! Very unique split-level layout offering 5 bedrooms / 2.5 baths of open...",
+      "address": "36 Hillside Ter, Monroe, NY 10950",
+      "numBaths": 3.0,
+      "numBeds": 5,
+      "price": 305000.00,
+      "previewImage": "https://static.trulia-cdn.com/pictures/thumbs_6/zillowstatic/ISvk7wfklibdrg0000000000.jpg"
+    },
+    {
+      "id": 8180,
+      "createdAt": "2020-05-18T12:16:14.266Z",
+      "description": "Clean Space for Rent. With or without pallet racks and shelves. Frozen/chilled/Dry space...",
+      "address": "Warehouse Space for Rent - real estate services",
+      "numBaths": 0,
+      "numBeds": 1,
+      "price": 16.00,
+      "previewImage": "/img/brick-placeholder.png"
+    },
+    {
+      "id": 6828,
+      "createdAt": "2020-04-02T16:47:37.682Z",
+      "description": "Rare opportunity to own an absolutely unique and gorgeous piece of land in Roxborough Park. Create your own oasis on this 27 acres of beauty. Panoramic views of the mountains and the city, amazing rock outcroppings, wildlife and serenity are all abundant. Located at the end of the highly desirable Roxborough Park Community - a coded gate and county maintained road leads you through Roxborough State Park to this private property which is divided by the road. Each side of the property has an ideal site to build a home, both offering amazing views. The opportunities here are as endless as your imagination! Located within 10 minutes of retail, shopping, and schools, and nearby Arrowhead Golf Course, Lockheed Martin, Waterton Canyon and Chatfield Reservoir with easy access to the mountains or the city from C470. Check out this Google Earth Video of the property and surrounding area: https://vimeo.com/319111490",
+      "address": "3255 N Rampart Range Road, Littleton Property Listing: MLS  #5711028",
+      "numBaths": -1.0,
+      "numBeds": -1,
+      "price": 1240000.00,
+      "previewImage": "https://rew-feed-images.global.ssl.fastly.net/trestle_webapi_plus2/_cloud_media/property/land/farm/361041168-1-l.jpg"
+    },
+    {
+      "id": 6827,
+      "createdAt": "2020-04-02T16:46:29.546Z",
+      "description": "Spectacular estate with more than 6500 square feet of fine craftsmanship located on .65 acres. Features include a large custom gourmet kitchen, granite countertops, custom cabinetry, top-of-the-line appliances and light fixtures. New hardwood floors, new carpeting, new tile roof, and LED lighting throughout. The spacious living room includes built-in custom shelves and a gas log fireplace. The main floor master retreat includes a private walk-out to the spacious patio, 5-piece luxurious bathroom with freestanding tub, heated floors, heated towel rack, rain shower, and custom wardrobe cabinets in the walk-in master closet. The main floor includes an additional bedroom with private bathroom, a laundry room, a formal dining room, and home office.  The second floor features two bedrooms with private bathrooms, a grand-sized laundry room, and a guest bedroom suite with breathtaking mountain views from the balcony.  The ground level offers a media room, grand entertainment room, wet bar, exercise room, steam r...",
+      "address": "3333 Routt Street, Wheat Ridge Property Listing: MLS  #3793025",
+      "numBaths": -1.0,
+      "numBeds": -1,
+      "price": 1499000.00,
+      "previewImage": "https://rew-feed-images.global.ssl.fastly.net/trestle_webapi_plus2/_cloud_media/property/residential/383906739-1-l.jpg"
+    },
+    {
+      "id": 6348,
+      "createdAt": "2020-03-13T16:33:55.474Z",
+      "description": "Meticulously maintained ranch in GREAT location! Cul-de-sac home backing to open space/walking trails, close to interstates and main street Parker. The open layout is bright and functional with an abundance of windows letting in natural light. The large foyer opens into the den/ formal living room currently used as office space. Spacious formal dining room with crown molding accents. The family room features large windows and a gas fireplace and opens into the kitchen with large eat-in area. Kitchen offers abundance of cabinets, granite counters, stainless steel appliances, large pantry, and double ovens. The oversized island has plenty of room for barstools. The breakfast eating area opens to the back deck overlooking open space. Large main level master with ceiling fan and 5 piece en-suite bathroom with HUGE closet. An additional main level bedroom is located off of the foyer and has a private bathroom. Laundry room has cabinets for storage and sink. Finished basement with large open recreation area, thi...",
+      "address": "15559 E Pine Drop Avenue, Parker Property Listing: MLS  #1827635",
+      "numBaths": -1.0,
+      "numBeds": -1,
+      "price": 574900.00,
+      "previewImage": "https://rew-feed-images.global.ssl.fastly.net/trestle_webapi_plus2/_cloud_media/property/residential/383841702-1-l.jpg"
+    },
+    {
+      "id": 6354,
+      "createdAt": "2020-03-13T17:08:04.264Z",
+      "description": "90 Washington St #2K is a rental unit in Financial District, Manhattan priced at $2,657.",
+      "address": "90 Washington St #2K, New York, NY 10006",
+      "numBaths": 1.0,
+      "numBeds": 1,
+      "price": 2657.00,
+      "previewImage": "https://cdn-img-feed.streeteasy.com/nyc/image/56/386763056.jpg"
+    },
+    {
+      "id": 6350,
+      "createdAt": "2020-03-13T16:51:18.537Z",
+      "description": "LOCATION! Brand new construction in University Hills.  Walk to numerous restaurants, bars, Evans light rail station, and other amenities.  Quick Uber/Lyft or bike ride to DU.  This unit is laid out extremely well and utilizes every inch of space to maximize efficiency, comfort, and livability.  High end finishes are found throughout and sure to please the most discerning buyer.  The panoramic views from the large rooftop deck are tough to beat!  This one hits all the marks!  Come check it out today!",
+      "address": "2193 S Clermont Street, Denver Property Listing: MLS  #1795786",
+      "numBaths": -1.0,
+      "numBeds": -1,
+      "price": 475000.00,
+      "previewImage": "https://rew-feed-images.global.ssl.fastly.net/trestle_webapi_plus2/_cloud_media/property/residential/383771059-1-l.jpg"
+    },
+    {
+      "id": 6347,
+      "createdAt": "2020-03-13T16:33:12.309Z",
+      "description": "Your home is the heartbeat of your life. The place you choose to lay your roots should reflect the things you love most. This stylish home in the fresh, new community of Copper Blush, boasts a smart design for your family, coupled with modern sophistication. This unique model includes a main floor master and an open floor plan; encouraging time spent together, while accomplishing tasks. Built in small batches, homes in the Copper Blush Community are meticulously designed and built with careful craftsmanship. Exposed steel beams and sliding door systems off the Kitchen and Great Room, provide a highly sought after industrial look and chic, modern appeal. A walkout basement option allows for ease of access to the outdoors from all parts of the home. Perfect for entertaining guests or building family memories, this home has it all. Nestled in The Village at Castle Pines, your perfect oasis awaits.",
+      "address": "5188 Copper Blush Court, Castle Rock Property Listing: MLS  #2623456",
+      "numBaths": -1.0,
+      "numBeds": -1,
+      "price": 869000.00,
+      "previewImage": "https://rew-feed-images.global.ssl.fastly.net/trestle_webapi_plus2/_cloud_media/property/residential/361035035-1-l.jpg"
+    },
+    {
+      "id": 6345,
+      "createdAt": "2020-03-13T16:15:30.246Z",
+      "description": "View this luxury home located at 1080 Meadow Lane Southampton, New York, United States. Sotheby's International Realty gives you detailed information on real estate listings in Southampton, New York, United States.",
+      "address": "1080 Meadow Ln Southampton, Southampton, NY 11968",
+      "numBaths": 21.0,
+      "numBeds": 16,
+      "price": 150000000.00,
+      "previewImage": "https://www.sothebysrealty.com/localimagereader.ashx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F307i215%2Fbafmqg7a6qjz43jp0a8s21j5j4i215&w=800&idlistings=180-l-1183-cxpz6b"
+    },
+    {
+      "id": 6344,
+      "createdAt": "2020-03-13T16:08:27.533Z",
+      "description": "This condo has it all! The large living room, kitchen and dining room enjoy on one open, airy space. The master bedroom has a walk-in closet and en suite bathroom with a large soaker tub. The second bedroom is spacious and just steps from the full bathroom. Recently installed neutral wood flooring and newly carpeted stairs mean all you need to do is move-in! A full-size washer and dryer are included, and a balcony gives you plenty of outdoor space to enjoy Colorado s weather. An attached one-car garage with smart garage door opener is included, and South Beeler St is just steps from your front door with plenty of additional street parking. Most of the home s appliances are less than three years old, and the entire complex is getting an exterior face lift so the outside of your new home will match the inside. This community includes a pool and is part of the Cherry Creek 5 school district.",
+      "address": "9300 E Florida Avenue 606, Denver Property Listing: MLS  #7738811",
+      "numBaths": -1.0,
+      "numBeds": -1,
+      "price": 275000.00,
+      "previewImage": "https://rew-feed-images.global.ssl.fastly.net/trestle_webapi_plus2/_cloud_media/property/residential/383809800-1-l.jpg"
+    },
+    {
+      "id": 6343,
+      "createdAt": "2020-03-13T16:05:51.424Z",
+      "description": "41 Newel Street #1B is a sale unit in Greenpoint, Brooklyn priced at $1,095,000.",
+      "address": "41 Newel St #1B, Brooklyn, NY 11222",
+      "numBaths": 1.5,
+      "numBeds": 1,
+      "price": 1095000.00,
+      "previewImage": "https://cdn-img-feed.streeteasy.com/nyc/image/92/384646592.jpg"
+    }
+  ]
+}
